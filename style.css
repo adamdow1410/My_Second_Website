@@ -1,0 +1,40 @@
+body{
+	border:10px solid black;
+	background-color:#efefef;
+	font-family: Arial, Helvetica, sans-Serif;
+	font-size:15px;
+}
+
+div{
+	display:block;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-right:10px;
+	margin-left:10px;
+}
+
+.header {
+	background-color: #F1F1F1;
+	text-align: center;
+	padding:20px;
+}
+
+.topnav {
+	overflow: hidden;
+	background-color: #f4a641;
+}
+
+.topnav a {
+	float: left;
+	display: block;
+	color: #42f4ee;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
